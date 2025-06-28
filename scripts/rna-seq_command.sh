@@ -13,4 +13,5 @@ time nextflow run nf-core/rnaseq -r 3.17.0 \
     --bam_csi_index --skip_dupradar false \
     --extra_salmon_quant_args '--seqBias --gcBias' 2>&1 | tee nextflow.nfcore_rnaseq.claudias_heatwaves.extended_functions.stderr.v08112024.log
 
-    # end
+
+## end
