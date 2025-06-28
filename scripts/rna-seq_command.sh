@@ -1,3 +1,6 @@
+# info:
+# N E X T F L O W   ~  version 24.10.0
+# Launching `https://github.com/nf-core/rnaseq` [berserk_goodall] DSL2 - revision: 00f924cf92 [3.17.0] 
 
 time nextflow run nf-core/rnaseq -r 3.17.0 \
     --input /home/alfaro/infiles/input_table.csv \
