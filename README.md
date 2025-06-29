@@ -12,7 +12,7 @@ Authors: Claudia Alfaro, Alejandro Nabor Lozada-Chávez, Ayda Khorramnejad, Alid
 ---
 
 Description:\
-This repository contains the datasets require to reproduce the transcriptomics anlyses for the different life stages of *Aedes albopictus* exposed to different heatwaves.
+This repository contains the datasets require to reproduce the transcriptomics analyses for the different life stages of *Aedes albopictus* exposed to different heatwaves.
 
 Directories:
 - datasets:
