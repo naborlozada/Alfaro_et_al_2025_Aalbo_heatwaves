@@ -1,8 +1,11 @@
 # SCRIPT FOR THE DEG ANALYSIS OF A HEATWAVE TRANSCRIPTIONAL RESPONSE
 # version: 05/05/2025
-
 # authors: Alejandro N. Lozada Chavez & Claudia Alfaro
 # questions: nabor.lozada@gmail.com, ccalfarocontreras@gmail.com
+
+# Description:
+# This script was used to perform the transcriptomic analyses of Aedes albopictus for different life stages: 
+# Larvae, Female, Male. Only the line 34 was change it to retain one of the targeted stages to be analyzed.
 
 
 # Install these libraries, then load them.
@@ -25,9 +28,12 @@ rownames(larvae_countData)[duplicated(rownames(larvae_countData))]
 
 ## Treatment groups
 metaData <- read.csv('metadata_treatments.txt', header = TRUE, sep = "\t");
-metaData
-larvae_metaData <- metaData %>% select(id,treatment)
-larvae_metaData
+head(metaData)
+
+## Only data for "Larvae". Change filter to target a different mosquito data life stages. 
+larvae_metaData <- metaData %>% filter(stage=="Larvae") %>% select(id,treatment)
+head(larvae_metaData)
+
 row.names(larvae_metaData) <- larvae_metaData$id
 
 
