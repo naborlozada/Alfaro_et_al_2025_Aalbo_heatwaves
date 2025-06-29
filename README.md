@@ -17,7 +17,7 @@ This repository contains the datasets require to reproduce the transcriptomics a
 Directories:
 - datasets:
     1) **Scaled reads counts:** output results from the nr-core/rnaseq pipeline with the normalized/scaled counts for each gene (TSV file).
-    2) **Metadata** (sample groups) to be used to group reads counts for DeSeq2 (TXT file).
+    2) **Metadata:** Sample information to be used to group sample reads counts by life stage for DeSeq2 (TXT file).
        
 - scripts:
     1) **nf-core/RNAseq command line** used to run the pipeline reading the FASTQ files (RNAseq) and reference genome files of *Aedes albopictus* (GCF_035046485.1_AalbF5): fasta, GTF.
