@@ -22,8 +22,7 @@ Directories:
 - scripts:
     1) **nf-core/RNAseq command line** used to run the pipeline reading the FASTQ files (RNAseq) and reference genome files of *Aedes albopictus* (GCF_035046485.1_AalbF5): fasta, GTF.
     2) **R script** to perform the reads counts using DeSeq2.
-    3) **nf-core/RNAseq output report**. An extended report of the quality of reads and alignments of each sample.   
-
+    3) **nf-core/RNAseq output quality report**. An extended report of the quality of reads and alignments of each sample.
 
 
 ** Each script has reference notes with general and/or technical information. For details, read the Methods section in the manuscript. 
