@@ -1,4 +1,4 @@
-## Alfaro_et_al_2025__Aalbo_Heatwaves
+## Alfaro_et_al_2025_Aalbo_heatwaves
 
 
 Research paper: **Do heatwaves impact mosquitoes? Multi-level analyses across developmental stages in *Aedes albopictus*** \*
