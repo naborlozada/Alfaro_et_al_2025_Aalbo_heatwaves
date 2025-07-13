@@ -1,9 +1,9 @@
-## Alfaro_et_al_2025_Aalbo_heatwaves
+## Aedes albopictus responses to a heatwaves
 
 
 Research paper: **Do heatwaves impact mosquitoes? Multi-level analyses across developmental stages in *Aedes albopictus*** \*
 
-Running title: "Aedes albopictus responses to a heatwave"
+Running title: "Aedes albopictus responses to a heatwaves"
 
 Authors: Claudia Alfaro, Alejandro Nabor Lozada-Chávez, Ayda Khorramnejad, Alida Kropf, Paolo Catapano, Alessia Cappelli, Claudia Damiani, Guido Favia, Mariangela Bonizzoni.
 
@@ -27,3 +27,19 @@ Directories:
 
 ** Each script has reference notes with general and/or technical information. For details, read the Methods section in the manuscript. 
 
+
+<h2> </h2>
+Cite our preprint:
+
+- Claudia Alfaro, Alejandro Nabor Lozada-Chávez, Ayda Khorramnejad, Alida Kropf, Paolo Catapano, Alessia Cappelli, Claudia Damiani, Guido Favia, Mariangela Bonizzoni. Do heatwaves impact mosquitoes? Multi-level analyses across developmental stages in Aedes albopictus. bioRxiv. DOI: https://doi.org/10.1101/2025.07.01.662530.
+
+---
+Cite this repository:
+- Lozada-Chávez, A. N. 2025. Aedes albopictus responses to a heatwave. Github repository. https://github.com/naborlozada/Alfaro_et_al_2025_Aalbo_heatwaves.
+
+
+<br /> 
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> <br />
+
+Additional information on this repository material: use and distribution, see [DISTIBUTION file](https://github.com/naborlozada/Perdomo_et_al_2025_sRNA_analysis/blob/main/DISTRIBUTION.md)
+ 
