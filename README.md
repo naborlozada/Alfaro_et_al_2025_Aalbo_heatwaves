@@ -1,9 +1,9 @@
-## Aedes albopictus responses to a heatwaves
+## Aedes albopictus responses to a heatwave
 
 
 Research paper: **Do heatwaves impact mosquitoes? Multi-level analyses across developmental stages in *Aedes albopictus*** \*
 
-Running title: "Aedes albopictus responses to a heatwaves"
+Running title: "Aedes albopictus responses to a heatwave"
 
 Authors: Claudia Alfaro, Alejandro Nabor Lozada-Chávez, Ayda Khorramnejad, Alida Kropf, Paolo Catapano, Alessia Cappelli, Claudia Damiani, Guido Favia, Mariangela Bonizzoni.
 
@@ -39,7 +39,8 @@ Cite this repository:
 
 
 <br /> 
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a> <br />
+<br/>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-Additional information on this repository material: use and distribution, see [DISTIBUTION file](https://github.com/naborlozada/Perdomo_et_al_2025_sRNA_analysis/blob/main/DISTRIBUTION.md)
+Additional information on the **use and distribution of the material in this repository**, see [DISTRIBUTION file](https://github.com/naborlozada/Alfaro_et_al_2025_Aalbo_heatwaves/blob/main/DISTRIBUTION.md)
  
