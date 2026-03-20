@@ -8,13 +8,9 @@ The data files and scripts are free. You can redistribute it and/or use it for s
 The material contained in this repository can be used it and/or distributed it in the hope that it will be useful for the community,
 but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-Cite this repository:
-   - Lozada-Chávez, A. N. 2025. Aedes albopictus responses to a heatwaves. Github repository. https://github.com/naborlozada/Alfaro_et_al_2025_Aalbo_heatwaves.
-
-
-
 **THE AUTHORS**
 
+   
 <h2> </h2>
 
 <a href="https://github.com/naborlozada/Alfaro_et_al_2025_Aalbo_heatwaves">Alfaro_et_al_2025</a> © 2026 by <a href="https://github.com/naborlozada/">Nabor Lozada</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
