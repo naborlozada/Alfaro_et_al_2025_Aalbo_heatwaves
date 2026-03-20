@@ -17,7 +17,7 @@ Cite this repository:
 
 <h2> </h2>
 
-<a href="https://github.com/naborlozada/Alfaro_et_al_2025_Aalbo_heatwaves">Alfaro_et_al_2025</a> © 2025 by <a href="https://github.com/naborlozada/">Nabor Lozada</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+<a href="https://github.com/naborlozada/Alfaro_et_al_2025_Aalbo_heatwaves">Alfaro_et_al_2025</a> © 2026 by <a href="https://github.com/naborlozada/">Nabor Lozada</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ```text
 
