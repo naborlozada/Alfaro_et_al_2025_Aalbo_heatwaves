@@ -5,7 +5,7 @@ Research paper: [**Stage-specific impacts of a simulated natural heatwave on *Ae
 
 Authors: Claudia Alfaro, Alejandro Nabor Lozada-Chávez, Ayda Khorramnejad, Alida Kropf, Paolo L. Catapano, Alessia Cappelli, Claudia Damiani, Guido Favia, Mariangela Bonizzoni.
 
-\* This manuscript has been accepted in **BMC Biology. In Press, 2026**.
+\* Manuscript publushed in **BMC Biology. 2026**.
 
 ---
 
@@ -29,7 +29,7 @@ Directories:
 
 Cite our research paper (provisional):
 
-- Claudia Alfaro, Alejandro Nabor Lozada-Chávez, Ayda Khorramnejad, Alida Kropf, Paolo Catapano, Alessia Cappelli, Claudia Damiani, Guido Favia, Mariangela Bonizzoni. Stage-specific impacts of a simulated natural heatwave on *Aedes albopictus*. **BMC Biol.** (2026). https://doi.org/10.1186/s12915-026-02567-x.
+- Claudia Alfaro, Alejandro Nabor Lozada-Chávez, Ayda Khorramnejad, Alida Kropf, Paolo Catapano, Alessia Cappelli, Claudia Damiani, Guido Favia, Mariangela Bonizzoni. 2026. Stage-specific impacts of a simulated natural heatwave on *Aedes albopictus*. **BMC Biology**: 24(88). https://doi.org/10.1186/s12915-026-02567-x.
 
 Cite our repositories:
 - Alfaro, C., Lozada-Chávez, A. N., Khorramnejad, A., Kropf, A., Catapano, P., Cappelli, A., Damiani, C., Favia, G., & Bonizzoni, M. (2026). Aedes albopictus responses to a heatwave (latest). **Zenodo**. https://doi.org/10.5281/zenodo.18274507.
